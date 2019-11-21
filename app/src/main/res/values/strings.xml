@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">atividade 11/09</string>
+
+    <string-array name="unit">
+        <item>Kg</item>
+        <item>g</item>
+        <item>L</item>
+        <item>ml</item>
+        <item>Unidade(s)</item>
+    </string-array>
+</resources>
